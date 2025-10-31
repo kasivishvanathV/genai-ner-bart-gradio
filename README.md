@@ -95,7 +95,7 @@ demo = gr.Interface(
 demo.launch(share=True, server_port=int(os.environ.get("PORT3", 7860)))
 ```
 ### OUTPUT:
-<img width="1171" height="622" alt="Screenshot 2025-10-31 112922" src="https://github.com/user-attachments/assets/639a158d-169b-408d-88a3-3bb94278c993" />
+<img width="1151" height="617" alt="Screenshot 2025-10-31 114353" src="https://github.com/user-attachments/assets/1d7b8cb8-385c-4e51-9c82-0efe68cb0874" />
 
 ### RESULT:
 Thus, developed an NER prototype application with user interaction and evaluation features, using a fine-tuned BART model deployed through the Gradio framework.
