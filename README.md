@@ -87,8 +87,8 @@ demo = gr.Interface(
     description="Find named entities using the dslim/bert-base-NER model via Hugging Face Inference API.",
     allow_flagging="never",
     examples=[
-        "My name is Kasivishvanath, studing in college and live in Chennai.",
-        "Elan lives in Pondicherry and works at HuggingFace."
+        "My name is Kasivishvanath, I am working in Zoho and live in Chennai.",
+        "Elan lives in Pondicherry and works at TCS."
     ]
 )
 
